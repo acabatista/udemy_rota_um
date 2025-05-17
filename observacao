@@ -1,0 +1,23 @@
+/*  PS                                            C:\Users\usrlabecon21\Downloads\udemy_curso-main\udemy_curso-main\inicio> npm -v
+        C:\Users\usrlabecon21\Downloads\udemy_curso-main\udemy_curso-main\inicio\package.json:
+
+        {
+        "name": "inicio",
+        "version": "1.0.0",
+        "description": "iniciando com express",
+        "main": "app.js",
+        "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"  },
+        "author": "",
+        "license": "ISC"
+        }
+
+
+        Is this OK? (yes)
+
+        PS C:\Users\usrlabecon21\Downloads\udemy_curso-main\
+
+        Ai a depois precisar instalar a biblioteca npm install nodemon -g
+        Para o servidor  rodar automaticamente sem precisar ficar parando ele
+        Ai digita nodemon index.js Para carregar automaticamente 
+*/
